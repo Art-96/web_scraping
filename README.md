@@ -1,3 +1,3 @@
 # web_scraping
-Above is all my scraper projects.
+Here are all my scraper designs.
 Thanks for attention )
